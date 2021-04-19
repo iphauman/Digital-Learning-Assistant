@@ -52,16 +52,17 @@ In case of publicity of the GitHub repository, I removed the endpoint of the fir
 
 
 
-**Please check the README.pdf to get my endpoint in the upload project source code.**
+```c#
+endpoint = ""
+```
 
 
 
 ## Additional Information
 
-* If you want to see the changes of the database, you need to create a firebase account from https://firebase.google.com/ and create a Realtime Database to replace the REST API endpoint in the C#script `/Scripts/Firebase/FirebaseRest.cs`
-* In case of failure importing package, I zipped a whole source project in to `Project Folder.7z`, you may check the source code inside that `Project Folder.7z/Assets/Scripts`.
+* If you want to see the changes of the database, you need to create a firebase account from https://firebase.google.com/ and create a Realtime Database to replace the REST API endpoint in the C#script `/Scripts/Firebase/FirebaseRest.cs
 
-
+* In case of failure importing package, you may access the GitHub repository in https://github.com/iphauman/Digital-Learning-Assistant to download the source code. 
 
 
 
