@@ -1,0 +1,30 @@
+# Unity generated files
+[Oo]bj/
+[Tt]emp/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+
+# Editor generated files
+.vs/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# Builds
+[Dd]ist/
+*.unitypackage
